@@ -1,8 +1,8 @@
 {
  "head": {
   "counts": {
-   "questionCount": 634,
-   "resultCount": 634
+   "questionCount": 650,
+   "resultCount": 650
   },
   "dateRange": {
    "start": "2022-06-01T00:00:00.000Z",
@@ -11,6 +11,646 @@
   "lang": "mul"
  },
  "results": [
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_12.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_12",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_12"
+    },
+    "showAs": " 1. Deputy Ivana Bacik asked the Taoiseach if he will report on his most recent discussions with the Prime Minister of Ukraine. [24218/22] ",
+    "by": {
+     "memberCode": "Ivana-Bacik.S.2007-07-23",
+     "showAs": "Ivana Bacik",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_1",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 1
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_12.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_12",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_12"
+    },
+    "showAs": " 2. Deputy Seán Haughey asked the Taoiseach if he will report on his most recent discussions with the Prime Minister of Ukraine. [26029/22] ",
+    "by": {
+     "memberCode": "Seán-Haughey.S.1987-04-25",
+     "showAs": "Seán Haughey",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Haughey.S.1987-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_2",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 2
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_12.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_12",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_12"
+    },
+    "showAs": " 3. Deputy Neale Richmond asked the Taoiseach if he will report on his recent meeting with the Deputy Prime Minister of Ukraine. [30513/22] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_3",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 3
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_13"
+    },
+    "showAs": " 4. Deputy Mary Lou McDonald asked the Taoiseach if he will report on the international unit of his Department. [24325/22] ",
+    "by": {
+     "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+     "showAs": "Mary Lou McDonald",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_4",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 4
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_13"
+    },
+    "showAs": " 5. Deputy Ivana Bacik asked the Taoiseach if he will report on the international unit of his Department. [25826/22] ",
+    "by": {
+     "memberCode": "Ivana-Bacik.S.2007-07-23",
+     "showAs": "Ivana Bacik",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_5",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 5
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_13"
+    },
+    "showAs": " 6. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the international unit of his Department. [26001/22] ",
+    "by": {
+     "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+     "showAs": "Richard Boyd Barrett",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_6",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 6
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_13"
+    },
+    "showAs": " 7. Deputy Paul Murphy asked the Taoiseach if he will report on the international unit of his Department. [26004/22] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_7",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 7
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_13"
+    },
+    "showAs": " 8. Deputy Seán Haughey asked the Taoiseach if he will report on the international unit of his Department. [26030/22] ",
+    "by": {
+     "memberCode": "Seán-Haughey.S.1987-04-25",
+     "showAs": "Seán Haughey",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Haughey.S.1987-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_8",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 8
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_13.xml"
+      }
+     },
+     "showAs": "Departmental Offices",
+     "debateSectionId": "dbsect_13",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_13"
+    },
+    "showAs": " 9. Deputy Mick Barry asked the Taoiseach if he will report on the international unit of his Department. [26198/22] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_9",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 9
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "National Economic and Social Council",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_14"
+    },
+    "showAs": " 10. Deputy Mary Lou McDonald asked the Taoiseach if he will report on the work of the National Economic and Social Council, the agency under the aegis of his Department. [24327/22] ",
+    "by": {
+     "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+     "showAs": "Mary Lou McDonald",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_10",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 10
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "National Economic and Social Council",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_14"
+    },
+    "showAs": " 11. Deputy Ivana Bacik asked the Taoiseach if he will report on the work of the National Economic and Social Council. [25828/22] ",
+    "by": {
+     "memberCode": "Ivana-Bacik.S.2007-07-23",
+     "showAs": "Ivana Bacik",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_11",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 11
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "National Economic and Social Council",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_14"
+    },
+    "showAs": " 12. Deputy Cian O'Callaghan asked the Taoiseach if he will report on the work of the National Economic and Social Council, the agency under the aegis of his Department. [26648/22] ",
+    "by": {
+     "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+     "showAs": "Cian O'Callaghan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_12",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 12
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "National Economic and Social Council",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_14"
+    },
+    "showAs": " 13. Deputy Cian O'Callaghan asked the Taoiseach if he will report on the work of the National Economic and Social Council, the agency that is under the aegis of his Department. [29502/22] ",
+    "by": {
+     "memberCode": "Cian-O'Callaghan.D.2020-02-08",
+     "showAs": "Cian O'Callaghan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cian-O'Callaghan.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_13",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 13
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "National Economic and Social Council",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_14"
+    },
+    "showAs": " 14. Deputy Brendan Smith asked the Taoiseach if he will report on the work of the National Economic and Social Council. [30061/22] ",
+    "by": {
+     "memberCode": "Brendan-Smith.D.1992-12-14",
+     "showAs": "Brendan Smith",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_14",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 14
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "National Economic and Social Council",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_14"
+    },
+    "showAs": " 15. Deputy Richard Boyd Barrett asked the Taoiseach if he will report on the work of the National Economic and Social Council, the agency under the aegis of his Department. [30723/22] ",
+    "by": {
+     "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+     "showAs": "Richard Boyd Barrett",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_15",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 15
+   },
+   "contextDate": "2022-06-14"
+  },
+  {
+   "question": {
+    "date": "2022-06-14",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/mul@/dbsect_14.xml"
+      }
+     },
+     "showAs": "National Economic and Social Council",
+     "debateSectionId": "dbsect_14",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-06-14/debate/dbsect_14"
+    },
+    "showAs": " 16. Deputy Paul Murphy asked the Taoiseach if he will report on the work of the National Economic and Social Council. [30726/22] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-06-14/pq_16",
+    "house": {
+     "showAs": "33rd Dáil",
+     "chamberType": "house",
+     "committeeCode": "",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionType": "oral",
+    "questionNumber": 16
+   },
+   "contextDate": "2022-06-14"
+  },
   {
    "question": {
     "date": "2022-06-02",
