@@ -1,0 +1,14 @@
+{
+ "head": {
+  "counts": {
+   "questionCount": 0,
+   "resultCount": 0
+  },
+  "dateRange": {
+   "start": "2022-10-01T00:00:00.000Z",
+   "end": "2022-10-31T00:00:00.000Z"
+  },
+  "lang": "mul"
+ },
+ "results": []
+}
