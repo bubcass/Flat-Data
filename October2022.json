@@ -1,8 +1,8 @@
 {
  "head": {
   "counts": {
-   "questionCount": 0,
-   "resultCount": 0
+   "questionCount": 27,
+   "resultCount": 27
   },
   "dateRange": {
    "start": "2022-10-01T00:00:00.000Z",
@@ -10,5 +10,1086 @@
   },
   "lang": "mul"
  },
- "results": []
+ "results": [
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_7"
+    },
+    "showAs": " 1. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on education will next meet. [43923/22] ",
+    "by": {
+     "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+     "showAs": "Mary Lou McDonald",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_1",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 1
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_7"
+    },
+    "showAs": " 2. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on education will next meet. [45727/22] ",
+    "by": {
+     "memberCode": "Ivana-Bacik.S.2007-07-23",
+     "showAs": "Ivana Bacik",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_2",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 2
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_7"
+    },
+    "showAs": " 3. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on education will next meet. [46016/22] ",
+    "by": {
+     "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+     "showAs": "Richard Boyd Barrett",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_3",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 3
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_7"
+    },
+    "showAs": " 4. Deputy Paul Murphy asked the Taoiseach when the Cabinet committee on education will next meet. [46019/22] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_4",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 4
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_7"
+    },
+    "showAs": " 5. Deputy Mick Barry asked the Taoiseach when the Cabinet committee on education will next meet. [46036/22] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_5",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 5
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_7"
+    },
+    "showAs": " 6. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet committee on education will next meet. [46786/22] ",
+    "by": {
+     "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+     "showAs": "Pádraig O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_6",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 6
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_7.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_7",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_7"
+    },
+    "showAs": " 7. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on education will meet next. [46788/22] ",
+    "by": {
+     "memberCode": "Cathal-Crowe.D.2020-02-08",
+     "showAs": "Cathal Crowe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_7",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 7
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_8"
+    },
+    "showAs": " 8. Deputy Mary Lou McDonald asked the Taoiseach when the Cabinet committee on economic recovery and investment will next meet. [43924/22] ",
+    "by": {
+     "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+     "showAs": "Mary Lou McDonald",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_8",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 8
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_8"
+    },
+    "showAs": " 9. Deputy Richard Boyd Barrett asked the Taoiseach when the Cabinet committee on economic recovery and investment will next meet. [44835/22] ",
+    "by": {
+     "memberCode": "Richard-Boyd-Barrett.D.2011-03-09",
+     "showAs": "Richard Boyd Barrett",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Richard-Boyd-Barrett.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_9",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 9
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_8"
+    },
+    "showAs": " 10. Deputy Rose Conway-Walsh asked the Taoiseach when the Cabinet committee on economic recovery and investment will meet next. [44918/22] ",
+    "by": {
+     "memberCode": "Rose-Conway-Walsh.S.2016-04-25",
+     "showAs": "Rose Conway-Walsh",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Rose-Conway-Walsh.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_10",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 10
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_8"
+    },
+    "showAs": " 11. Deputy Ivana Bacik asked the Taoiseach when the Cabinet committee on economic recovery and investment will next meet. [45728/22] ",
+    "by": {
+     "memberCode": "Ivana-Bacik.S.2007-07-23",
+     "showAs": "Ivana Bacik",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_11",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 11
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_8"
+    },
+    "showAs": " 12. Deputy Pádraig O'Sullivan asked the Taoiseach when the Cabinet committee on economic recovery and investment will next meet. [46787/22] ",
+    "by": {
+     "memberCode": "Pádraig-O'Sullivan.D.2019-11-29",
+     "showAs": "Pádraig O'Sullivan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Pádraig-O'Sullivan.D.2019-11-29"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_12",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 12
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_8"
+    },
+    "showAs": " 13. Deputy Cathal Crowe asked the Taoiseach when the Cabinet committee on economic recovery and investment will meet next. [46789/22] ",
+    "by": {
+     "memberCode": "Cathal-Crowe.D.2020-02-08",
+     "showAs": "Cathal Crowe",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Cathal-Crowe.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_13",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 13
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_8.xml"
+      }
+     },
+     "showAs": "Cabinet Committees",
+     "debateSectionId": "dbsect_8",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_8"
+    },
+    "showAs": " 14. Deputy Mick Barry asked the Taoiseach when the Cabinet committee on economic recovery and investment will next meet. [48634/22] ",
+    "by": {
+     "memberCode": "Mick-Barry.D.2016-10-03",
+     "showAs": "Mick Barry",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mick-Barry.D.2016-10-03"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_14",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 14
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 15. Deputy Alan Farrell asked the Taoiseach if he will outline his engagements with the new Prime Minister of the United Kingdom on the issue of Brexit and Northern Ireland. [44478/22] ",
+    "by": {
+     "memberCode": "Alan-Farrell.D.2011-03-09",
+     "showAs": "Alan Farrell",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Alan-Farrell.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_15",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 15
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 16. Deputy Bernard J. Durkan asked the Taoiseach the extent to which he has had conversations with the newly elected British Prime Minister. [44710/22] ",
+    "by": {
+     "memberCode": "Bernard-Durkan.D.1981-06-30",
+     "showAs": "Bernard Durkan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Durkan.D.1981-06-30"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_16",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 16
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 17. Deputy Neale Richmond asked the Taoiseach if he will report on his conversation with the new British Prime Minister. [44783/22] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_17",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 17
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 18. Deputy Brendan Smith asked the Taoiseach if he will report on his recent attendance at the British Irish Association Conference.  [44812/22] ",
+    "by": {
+     "memberCode": "Brendan-Smith.D.1992-12-14",
+     "showAs": "Brendan Smith",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_18",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 18
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 19. Deputy Brendan Smith asked the Taoiseach if he has spoken with the new British Prime Minister. [44813/22] ",
+    "by": {
+     "memberCode": "Brendan-Smith.D.1992-12-14",
+     "showAs": "Brendan Smith",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Brendan-Smith.D.1992-12-14"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_19",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 19
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 20. Deputy Seán Haughey asked the Taoiseach if he has spoken with the new Prime Minister of the United Kingdom. [44815/22] ",
+    "by": {
+     "memberCode": "Seán-Haughey.S.1987-04-25",
+     "showAs": "Seán Haughey",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Haughey.S.1987-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_20",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 20
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 21. Deputy Paul Murphy asked the Taoiseach if he will report on his conversation with the new Prime Minister of the United Kingdom. [44842/22] ",
+    "by": {
+     "memberCode": "Paul-Murphy.D.2014-10-10",
+     "showAs": "Paul Murphy",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Paul-Murphy.D.2014-10-10"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_21",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 21
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 22. Deputy Ruairí Ó Murchú asked the Taoiseach if he will report on the latest communications with British Prime Minister. [44933/22] ",
+    "by": {
+     "memberCode": "Ruairí-Ó-Murchú.D.2020-02-08",
+     "showAs": "Ruairí Ó Murchú",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ruairí-Ó-Murchú.D.2020-02-08"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_22",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 22
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 23. Deputy Neale Richmond asked the Taoiseach if he will report on his recent meeting with the European Union Commissioner for Interinstitutional Relations and Foresight, Mr. Maroš Šefčovič.  [44784/22] ",
+    "by": {
+     "memberCode": "Neale-Richmond.S.2016-04-25",
+     "showAs": "Neale Richmond",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Neale-Richmond.S.2016-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_23",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 23
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 24. Deputy Ivana Bacik asked the Taoiseach if he will report on his engagements with the new British Prime Minister. [45729/22] ",
+    "by": {
+     "memberCode": "Ivana-Bacik.S.2007-07-23",
+     "showAs": "Ivana Bacik",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Ivana-Bacik.S.2007-07-23"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_24",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 24
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 25. Deputy Bernard J. Durkan asked the Taoiseach if the Northern Ireland Protocol was discussed during his recent conversations with the British Prime Minister.  [46034/22] ",
+    "by": {
+     "memberCode": "Bernard-Durkan.D.1981-06-30",
+     "showAs": "Bernard Durkan",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Bernard-Durkan.D.1981-06-30"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_25",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 25
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 26. Deputy Mary Lou McDonald asked the Taoiseach if he will report on his most recent discussions with the British Prime Minister. [48036/22] ",
+    "by": {
+     "memberCode": "Mary-Lou-McDonald.D.2011-03-09",
+     "showAs": "Mary Lou McDonald",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Mary-Lou-McDonald.D.2011-03-09"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_26",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 26
+   },
+   "contextDate": "2022-10-04"
+  },
+  {
+   "question": {
+    "date": "2022-10-04",
+    "debateSection": {
+     "formats": {
+      "pdf": null,
+      "xml": {
+       "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/mul@/dbsect_9.xml"
+      }
+     },
+     "showAs": "Taoiseach's Meetings and Engagements",
+     "debateSectionId": "dbsect_9",
+     "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2022-10-04/debate/dbsect_9"
+    },
+    "showAs": " 27. Deputy Seán Haughey asked the Taoiseach if he will report on his recent meeting with the European Commission Vice President, Mr. Maroš Šefčovič.  [48123/22] ",
+    "by": {
+     "memberCode": "Seán-Haughey.S.1987-04-25",
+     "showAs": "Seán Haughey",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Seán-Haughey.S.1987-04-25"
+    },
+    "to": {
+     "showAs": "Taoiseach",
+     "roleCode": null,
+     "roleType": null,
+     "uri": null
+    },
+    "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2022-10-04/pq_27",
+    "questionType": "oral",
+    "house": {
+     "showAs": "33rd Dáil",
+     "committeeCode": "",
+     "chamberType": "house",
+     "houseCode": "dail",
+     "houseNo": "33",
+     "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+    },
+    "questionNumber": 27
+   },
+   "contextDate": "2022-10-04"
+  }
+ ]
 }
